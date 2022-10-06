@@ -1,0 +1,16 @@
+name: stifado
+version: 0.1.1
+
+authors:
+  - Evangelos Paterakis <evan@geopjr.dev>
+
+dependencies:
+  cryomongo:
+    github: elbywan/cryomongo
+
+targets:
+  stifado:
+    main: src/stifado.cr
+
+crystal: 1.5.1
+

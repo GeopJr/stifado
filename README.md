@@ -1,0 +1,1 @@
+This is an archive of an early version of [kremmidi](https://github.com/GeopJr/kremmidi) before it was re-written in golang.
